@@ -22,7 +22,6 @@
 
         <maven-jar-plugin.version>3.2.2</maven-jar-plugin.version>
         <maven-dependency-plugin.version>3.3.0</maven-dependency-plugin.version>
-        <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
         <aspectj-maven-plugin.version>1.14.0</aspectj-maven-plugin.version>
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
         <maven-failsafe-plugin.version>2.22.2</maven-failsafe-plugin.version>

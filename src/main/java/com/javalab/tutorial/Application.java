@@ -1,6 +1,5 @@
 package com.javalab.tutorial;
 
-import com.javalab.tutorial.model.Person;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
