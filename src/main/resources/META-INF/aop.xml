@@ -1,0 +1,8 @@
+<aspectj>
+    <aspects>
+        <aspect name="com.ai4everyone.tutorial.aspectj.annotation.SecuredMethodAspect"/>
+        <weaver options="-verbose -showWeaveInfo">
+            <include within="com.ai4everyone.tutorial.aspectj.annotation.*"/>
+        </weaver>
+    </aspects>
+</aspectj>
